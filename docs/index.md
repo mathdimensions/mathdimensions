@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Mathematical Dimensions!
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
