@@ -2,8 +2,6 @@ site_name: Mathematical Dimensions
 theme:
   name: material
   palette: 
-    primary: amber
-  palette: 
 
     # Palette toggle for light mode
     - scheme: default
