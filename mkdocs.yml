@@ -2,7 +2,8 @@ site_name: Mathematical Dimensions
 theme:
   name: material
   palette: 
-    accent: amber
+    
+    - accent: amber
 
     # Palette toggle for light mode
     - scheme: default
@@ -15,6 +16,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
 
 
   
