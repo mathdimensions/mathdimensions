@@ -1,3 +1,5 @@
 site_name: Mathematical Dimensions
 theme:
   name: material
+nav: first.ipynb
+plugins: mknotebooks
