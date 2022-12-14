@@ -15,7 +15,6 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
     
-    - primary: amber   
 
 nav: 
   - first.ipynb
