@@ -6,3 +6,18 @@ nav:
 
 plugins: 
   - mknotebooks
+  
+theme:
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/waether-night
+        name: Switch to light mode
