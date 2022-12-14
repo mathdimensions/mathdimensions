@@ -4,14 +4,14 @@ theme:
   palette: 
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: teal
+    primary: deep orange
     accent: purple
     toggle:
       icon: material/weather-sunny
       name: Switch to dark mode
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
-    primary: black
+    primary: deep orange
     accent: lime
     toggle:
       icon: material/weather-night
