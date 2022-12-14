@@ -3,6 +3,8 @@ theme:
   name: material
   palette: 
 
+    - primary: amber
+
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -15,9 +17,6 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 
-
-
-  
 nav: 
   - first.ipynb
 
