@@ -2,9 +2,20 @@ site_name: Mathematical Dimensions
 theme:
   name: material
   palette: 
-    scheme: slate
-    primary: deep orange
-    
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep orange 
+      toggle:
+        icon: material/weather-sunny 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode    
 
 nav: 
   - first.ipynb
