@@ -7,6 +7,4 @@ nav:
 plugins: 
   - mknotebooks
   
-theme:
-  palette:
-    primary: yellow
+
