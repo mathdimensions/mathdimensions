@@ -1,6 +1,7 @@
 site_name: Mathematical Dimensions
 theme:
   name: material
+  palette: amber
   palette: 
 
     # Palette toggle for light mode
