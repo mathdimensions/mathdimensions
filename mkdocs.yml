@@ -2,7 +2,7 @@ site_name: Mathematical Dimensions
 theme:
   name: material
   palette: 
-    primary: deep orange
+    primary: amber
 
 nav: 
   - first.ipynb
