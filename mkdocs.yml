@@ -7,6 +7,7 @@ theme:
 nav: 
   - first.ipynb
   - LogisticMap.ipynb
+  - NeuralNets.ipynb
 
 plugins: 
   - mknotebooks
